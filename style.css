@@ -1,0 +1,22 @@
+:root{
+    --azul-solsa:#2a617f
+}
+
+.bg-azul{
+    background-color:var(--azul-solsa);
+}
+
+p{
+    text-align: justify;
+    padding: 0 1rem;
+}
+
+.video-container iframe{
+    width: 100vw;
+    height: 57vw;
+}
+
+.imagen-container img{
+    width: 100%;
+    padding: 0 1rem;
+}
